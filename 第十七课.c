@@ -8,7 +8,7 @@ int main()
 	do {
 		x /= 10;
 		n ++;
-	} while (x > 0);//do后面是大括号,while后面是小括号
+	} while (x > 0);//do后面是大括号,while后面是小括号  
 	printf("%d", n);
 	return 0;
 }

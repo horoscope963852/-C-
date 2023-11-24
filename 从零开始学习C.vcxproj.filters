@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="第十七课.c">
+    <ClCompile Include="第十八课.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
